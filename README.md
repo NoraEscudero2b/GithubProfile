@@ -3,7 +3,7 @@
 
 My artestation account -->
 
-!https://www.artstation.com/qxarax
+[(https://artstation_logo_icon_145479.png)](https://www.artstation.com/qxarax)
 
 ## Here are some of the softwares that I know:
 
@@ -36,19 +36,19 @@ My artestation account -->
 	</td>
   <td>
 	<a href="https://www.artstation.com/artwork/PXZq6r/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/labyrinthine.png">
+  		<img src="qxarax-1b-noraescudero-t4.gif">
 	</a>
 	</td>
   </tr>
   <tr>
   <td>
 	<a href="https://www.artstation.com/artwork/ob1Q0m/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/pokemonmasters.png">
+  		<img src="qxarax-si.jpg">
 	</a>
 	</td>
 	<td>
 	<a href="https://www.artstation.com/artwork/qeL1Ya/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/mirrorverse.png">
+  		<img src="qxarax-noraescudero1.jpg">
 	</a>
 	</td>
 	</td>
