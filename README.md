@@ -3,7 +3,7 @@
 
 My artestation account -->
 
-[![(https://artstation_logo_icon_145479.png)](https://www.artstation.com/qxarax)
+[![(artstation_logo_icon_145479.png)](https://www.artstation.com/qxarax)
 
 ## Here are some of the softwares that I know:
 
