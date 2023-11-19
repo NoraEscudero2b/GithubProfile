@@ -1,10 +1,9 @@
 # Hola, my name is Nora 🐭
 ### And Im an Estudent of animation and videogames at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
 
-My artestation account -->  [<img src="artstation_logo_icon_145479.png" width=48>](https://www.artstation.com/qxarax/)
+My artestation account  [<img src="artstation_logo_icon_145479.png" width=48>](https://www.artstation.com/qxarax/)
 
-<a href="https://www.artstation.com/qxarax">
-  		<img src="artstation_logo_icon_145479.png">
+
 
 ## Here are some of the softwares that I know:
 
