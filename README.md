@@ -9,7 +9,7 @@ My artestation account -->
 
 [![Unreal](https://img.shields.io/badge/Unreal-999999?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
 <br>
-[![Unity]([https://img.shields.io/badge/Unreal-999999?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010](https://img.shields.io/badge/Unity-999999?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010))]()
+[![Unity]([(https://img.shields.io/badge/Unity-999999?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010))]()
 <br>
 [![After](https://img.shields.io/badge/Adobe_After_Effects-7F7AC9?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=262076]()
 <br>
@@ -31,7 +31,7 @@ My artestation account -->
   <tr>
   <td>
 	<a href="https://www.artstation.com/artwork/WBk8Xy/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/leagueoflegends.png">
+  		<img src="qxarax-demonio6.jpg">
 	</a>
 	</td>
   <td>
@@ -53,15 +53,5 @@ My artestation account -->
 	</td>
 	</td>
     </tr>
-    <tr>
-    <td>
-	<a href="hhttps://www.artstation.com/artwork/8ba5mG/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/devour.png">
-	</a>
-	</td>
-	<td>
-	<a href="https://www.artstation.com/artwork/39kebY/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/phasmophobia.png">
-	</a>
-  </tr>
+ 
 </table>
