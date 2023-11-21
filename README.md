@@ -1,5 +1,5 @@
 # Hi, my name is Nora 🐭
-### And Im an Estudent of animation and videogames at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
+### And Im an student of animation and videogames at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
 
 I am 19 years old and I would like to do 2D and 3D animation.
 
